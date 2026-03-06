@@ -1,0 +1,23 @@
+{
+  "name": "aula0603",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietrasantos389/aula0603.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietrasantos389/aula0603/issues"
+  },
+  "homepage": "https://github.com/pietrasantos389/aula0603#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
